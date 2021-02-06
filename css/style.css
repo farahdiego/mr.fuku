@@ -21,10 +21,14 @@ body{
 
 .justify-align{
 	text-align: justify;
-	word-spacing: 0px;
+    word-break: break-word;
+    hyphens: auto;
 	
 }
 
 @media only screen and (max-width: 600px) {
 	h4{font-size: 17px;}
+	
+	.justify-align {
+		word-spacing: -1px;}
 }
