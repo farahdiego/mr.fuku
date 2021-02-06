@@ -26,6 +26,16 @@ body{
 	
 }
 
+.page-footer img{
+	margin: 5px;
+}
+
+
+.page-footer h6 {
+	margin: 0.7666666667rem 0 -0.46rem 0;
+}
+
+
 @media only screen and (max-width: 600px) {
 	h4{font-size: 17px;}
 	
