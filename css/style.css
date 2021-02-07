@@ -35,6 +35,10 @@ body{
 	margin: 0.7666666667rem 0 -0.46rem 0;
 }
 
+.footerazul{
+	margin-top: 40px;
+}
+
 
 @media only screen and (max-width: 600px) {
 	h4{font-size: 17px;}
@@ -42,4 +46,22 @@ body{
 	.justify-align {
 		word-spacing: -1px;
 	}
+	.footerazul{
+	margin-top: 0;
+}
+	.parrafo-home{
+		display: none;
+	}
+	
+	.texto-slider{
+		position: absolute;
+	}
+	
+	.texto-slider h2{
+		 color: #fff !important;
+		padding-left: 20px;
+		font-size: 1.5rem !important;
+	}
+	
+	
 }
