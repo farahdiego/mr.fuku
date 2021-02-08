@@ -65,5 +65,7 @@ body{
 		font-size: 1.5rem !important;
 	}
 	
+	.page-footer img{max-height: 64px;}
+	
 	
 }
