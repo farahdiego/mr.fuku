@@ -52,6 +52,16 @@ body{
 	padding-right: 2%;
 }
 
+.titulos2{
+	background-color: rgba(10, 170, 1, .7) ;
+	margin-left: 0;
+	padding-left: 10%;
+	padding-right: 2%;
+}
+
+h5{
+	padding-top: 2%;
+}
 
 @media only screen and (max-width: 600px) {
 	h4{font-size: 17px;}
