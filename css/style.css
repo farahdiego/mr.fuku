@@ -39,7 +39,18 @@ body{
 	margin-top: 40px;
 }
 
+.copete{
+	font-size: 1.4rem;
+	font-weight: 300;
+	color: #828282;
+}
 
+.titulos{
+	background-color: rgba(214, 0, 71, .7) ;
+	margin-left: 0;
+	padding-left: 10%;
+	padding-right: 2%;
+}
 
 
 @media only screen and (max-width: 600px) {
