@@ -53,7 +53,7 @@ body{
 }
 
 .titulos2{
-	background-color: rgba(10, 170, 1, .7) ;
+	background-color: rgba(0, 162, 255, .7) ;
 	margin-left: 0;
 	padding-left: 10%;
 	padding-right: 2%;
@@ -75,6 +75,18 @@ body{
 
 h5{
 	padding-top: 2%;
+}
+
+.mapa-conceptual{
+	width: 80%;
+}
+
+.lista{
+	font-weight: 400;
+	text-align: left;
+	font-size: 1.2rem ;
+	word-break: normal;
+    hyphens: none;
 }
 
 @media only screen and (max-width: 600px) {
