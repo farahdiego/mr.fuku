@@ -130,3 +130,13 @@ h5{
 	
 	.parallax-container { margin-top: 45px;}
 }
+
+@media only screen and (min-width: 992px) {
+	
+	.brand-logo-home img{
+	max-height: 120px;
+	vertical-align: middle;
+	
+}
+  
+}
