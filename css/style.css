@@ -138,5 +138,10 @@ h5{
 	vertical-align: middle;
 	
 }
+	
+	
+.carousel.carousel-slider .carousel-item h2 {
+    margin-left: 10%;
+}
   
 }
