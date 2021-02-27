@@ -89,6 +89,14 @@ h5{
     hyphens: none;
 }
 
+.gracias{
+	width: 40%;
+}
+
+.h5gracias{
+	padding-top: 0px !important;
+}
+
 @media only screen and (max-width: 600px) {
 	h4{font-size: 17px;}
 	
