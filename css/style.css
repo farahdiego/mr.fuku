@@ -97,6 +97,8 @@ h5{
 	padding-top: 0px !important;
 }
 
+
+
 @media only screen and (max-width: 600px) {
 	h4{font-size: 17px;}
 	
@@ -137,19 +139,49 @@ h5{
 	}
 	
 	.parallax-container { margin-top: 45px;}
+	
+	
+	.brand-logo-home img {
+    max-height: 133px;
+vertical-align: middle;
+width: 248px;
 }
+	
+}
+
+
+
 
 @media only screen and (min-width: 992px) {
 	
-	.brand-logo-home img{
-	max-height: 120px;
-	vertical-align: middle;
-	
-}
+	.brand-logo-home img {
+    max-height: 263px;
+    vertical-align: middle;
+		width: 500px;}
 	
 	
 .carousel.carousel-slider .carousel-item h2 {
     margin-left: 10%;
 }
   
+}
+	
+	@media only screen and (max-width: 992px) {
+		
+		.brand-logo-home img {
+    max-height: 140px;
+vertical-align: middle;
+width: 691px;
+}
+ 
+}
+
+@media only screen and (max-width: 400px) {
+		
+		.brand-logo-home img {
+    max-height: 130px;
+vertical-align: middle;
+width: 691px;
+}
+ 
 }
