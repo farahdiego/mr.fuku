@@ -9,7 +9,7 @@ $empresa=$_GET['empresa'];
 $consulta=$_GET['consulta'];
 
 //Aquí se coloca el destinatario del mail (entre comillas dobles)
-mail("ral@teslamd.com",
+mail("info@teslamd.com",
 
 // Aqui va el asunto del mail (entre comillas dobles)
 "Consulta de $nombre para Tesla MD",
