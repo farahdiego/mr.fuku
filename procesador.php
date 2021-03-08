@@ -26,5 +26,5 @@ mail("info@teslamd.com",
 
 // Aqui va la url del archivo de respuesta que indica al usuario que el formulario fué enviado
 // El comando header es el equivalente a link de html
-header("Location: gracias.html");
+header("Location: gracias.php");
 ?>
