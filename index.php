@@ -14,19 +14,19 @@
   <nav class="white" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo-home"><img class="responsive-img" src="images/logo-tesla.svg"  alt=""/></a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="index.html" class=" black-text">INICIO</a></li>
-		  <li><a href="nosotros.html" class=" black-text">NOSOTROS</a></li>
-		  <li><a href="soluciones.html" class=" black-text">SOLUCIONES</a></li>
-		  <li><a href="asociatividad.html" class=" black-text">ASOCIATIVIDAD</a></li>
-		  <li><a href="contacto.html" class=" black-text">CONTACTO</a></li>
+        <li><a href="index.php" class=" black-text">INICIO</a></li>
+		  <li><a href="nosotros.php" class=" black-text">NOSOTROS</a></li>
+		  <li><a href="soluciones.php" class=" black-text">SOLUCIONES</a></li>
+		  <li><a href="asociatividad.php" class=" black-text">ASOCIATIVIDAD</a></li>
+		  <li><a href="contacto.php" class=" black-text">CONTACTO</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
-        <li><a href="index.html" class=" black-text">INICIO</a></li>
-		  <li><a href="nosotros.html" class=" black-text">NOSOTROS</a></li>
-		  <li><a href="soluciones.html" class=" black-text">SOLUCIONES</a></li>
-		  <li><a href="asociatividad.html" class=" black-text">ASOCIATIVIDAD</a></li>
-		  <li><a href="contacto.html" class=" black-text">CONTACTO</a></li>
+        <li><a href="index.php" class=" black-text">INICIO</a></li>
+		  <li><a href="nosotros.php" class=" black-text">NOSOTROS</a></li>
+		  <li><a href="soluciones.php" class=" black-text">SOLUCIONES</a></li>
+		  <li><a href="asociatividad.php" class=" black-text">ASOCIATIVIDAD</a></li>
+		  <li><a href="contacto.php" class=" black-text">CONTACTO</a></li>
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
@@ -51,12 +51,12 @@
 		 
   <a class="carousel-item" href="#one!"><div class="row valign-wrapper white">
 		<div class="col s12 m5 l5 texto-slider"><h2 class="black-text">Desarrollo con<br>visión productiva.</h2></div>
-		<div class="col s12 m7 l7 right-align"><img class="responsive-img" src="images/slider/01.jpg"></div></div>
+		<div class="col s12 m7 l7 right-align"><img class="responsive-img" src="images/slider/02.jpg"></div></div>
 	</a>
 		 
 		<a class="carousel-item" href="#one!"><div class="row valign-wrapper white">
 		<div class="col s12 m5 l5 texto-slider"><h2 class="black-text">Distribución y<br>comercialización de<br>tecnología médica.</h2></div>
-		<div class="col s12 m7 l7 right-align"><img class="responsive-img" src="images/slider/01.jpg"></div></div>
+		<div class="col s12 m7 l7 right-align"><img class="responsive-img" src="images/slider/03.jpg"></div></div>
 	</a>
    
   </div>
@@ -80,7 +80,7 @@
 
 			 <h4 class="left">SOLUCIONES</h4>
               <p class="light left">Llevando productos médicos innovadores surgidos de la investigación científica a manos de profesionales médicos. </p><br>
-				<p class="right-align" ><a class="waves-effect waves-blue btn-flat bold" href="soluciones.html">
+				<p class="right-align" ><a class="waves-effect waves-blue btn-flat bold" href="soluciones.php">
   <i class="material-icons">add</i>
             </a></p>
             </div>
@@ -101,7 +101,7 @@
 
 			 <h4 class="left">ASOCIATIVIDAD</h4>
               <p class="light left">Complementando capacidades para que la innovación llegue rápidamente al mercado más adecuado.</p><br>
-				<p class="right-align" ><a class="waves-effect waves-blue btn-flat bold" href="asociatividad.html">
+				<p class="right-align" ><a class="waves-effect waves-blue btn-flat bold" href="asociatividad.php">
   <i class="material-icons">add</i>
             </a></p>
             </div>
@@ -115,54 +115,10 @@
   </div>
 	  
 </div>
+	
+	<? include 'include/footer.php'; ?>
 
-  <footer class="page-footer blue">
-    
-      <div class="row">
-        <div class="col l1 m1 s12">
-           
-        </div>
-		   <div class="col l1 m1 s12">
-           <ul>
-            <li><img src="images/instagram.png" alt="" class="responsive-img" /></li>
-            <li><img src="images/facebook.png" alt="" class="responsive-img" /></li>
-			   <li><img src="images/linkedin.png" alt="" class="responsive-img" /></li>
-          </ul>
- </div>
-		  <div class="col l3 m3 s12 footerazul">
-          <h5 class="white-text">No dude en contactarse<br>con nosotros</h5>
-        </div>
-        <div class="col l3 m3 s12 footerazul">
-            <h6 class="white-text"> <i class="material-icons tiny">location_on</i> OFICINA CENTRAL</h6>
-         <p class="grey-text text-lighten-4 light">Angel Carranza 2344, Ciudad Autónoma<br>
-de Buenos Aires, Argentina - C1425FXF</p>
-        </div>
-        <div class="col l3 m3 s12 footerazul">
-          <h6 class="white-text"><i class="material-icons tiny">phone</i> LÍNEAS DE COMUNICACIÓN</h6>
-          <ul class="light">
-            <a href="tel:+541147391090" class="white-text">+5411 4739-1090 </a><br>
-            <a href="tel:+541148413114" class="white-text">+5411 4841-3114</a>
-          </ul>
-        </div>
-		  <div class="col l1 m1 s12">
-           
-        </div>
-      </div>
-   
-    <div class=" grey">
-<div class="row">
-        <div class="col l3 m3 s6 center-align"><img src="images/bpf.png"  alt="" class="responsive-img"/> </div>
-	<div class="col l3 m3 s6 center-align"><img src="images/ministerio-salud.png"  alt="" class="responsive-img"/> 
-           </div>
-	<div class="col l3 m3 s6 center-align"><img src="images/anmat.png"  alt="" class="responsive-img"/> 
-           </div>
-	<div class="col l3 m3 s6 center-align"><img src="images/data-fiscal.png"  alt="" class="responsive-img"/> 
-           </div>
-	</div>
-		
-        </div>
-      
-  </footer>
+  
 
 
   <!--  Scripts-->

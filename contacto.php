@@ -11,26 +11,9 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-  <nav class="white" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo"><img src="images/logo-tesla.jpg"  alt=""/></a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="index.html" class=" black-text">INICIO</a></li>
-		  <li><a href="nosotros.html" class=" black-text">NOSOTROS</a></li>
-		  <li><a href="soluciones.html" class=" black-text">SOLUCIONES</a></li>
-		  <li><a href="asociatividad.html" class=" black-text">ASOCIATIVIDAD</a></li>
-		  <li><a href="contacto.html" class=" black-text">CONTACTO</a></li>
-      </ul>
-
-      <ul id="nav-mobile" class="sidenav">
-        <li><a href="index.html" class=" black-text">INICIO</a></li>
-		  <li><a href="nosotros.html" class=" black-text">NOSOTROS</a></li>
-		  <li><a href="soluciones.html" class=" black-text">SOLUCIONES</a></li>
-		  <li><a href="asociatividad.html" class=" black-text">ASOCIATIVIDAD</a></li>
-		  <li><a href="contacto.html" class=" black-text">CONTACTO</a></li>
-      </ul>
-      <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-    </div>
-  </nav>
+	
+	<? include 'include/header.php'; ?>
+  
 
 
 	  <div class="parallax-container valign-wrapper">
@@ -97,53 +80,7 @@ Angel Carranza 2344, Ciudad Autónoma de Buenos Aires, Argentina - C1425FXF
 
 	<div class="row center-align"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.061421794006!2d-58.43475378497908!3d-34.57731236360796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb59133142d7b%3A0x2dff94e6c3f4bfba!2s%C3%81ngel%20Justiniano%20Carranza%202344%2C%20Buenos%20Aires!5e0!3m2!1sen!2sar!4v1613341216900!5m2!1sen!2sar" width="100%" height="500px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
 
-  <footer class="page-footer blue">
-
-      <div class="row">
-        <div class="col l1 m1 s12">
-
-        </div>
-		   <div class="col l1 m1 s12">
-           <ul>
-            <li><img src="images/instagram.png" alt="" class="responsive-img" /></li>
-            <li><img src="images/facebook.png" alt="" class="responsive-img" /></li>
-			   <li><img src="images/linkedin.png" alt="" class="responsive-img" /></li>
-          </ul>
- </div>
-		  <div class="col l3 m3 s12 footerazul">
-          <h5 class="white-text">No dude en contactarse<br>con nosotros</h5>
-        </div>
-        <div class="col l3 m3 s12 footerazul">
-            <h6 class="white-text"> <i class="material-icons tiny">location_on</i> OFICINA CENTRAL</h6>
-         <p class="grey-text text-lighten-4 light">Angel Carranza 2344, Ciudad Autónoma<br>
-de Buenos Aires, Argentina - C1425FXF</p>
-        </div>
-        <div class="col l3 m3 s12 footerazul">
-          <h6 class="white-text"><i class="material-icons tiny">phone</i> LÍNEAS DE COMUNICACIÓN</h6>
-           <ul class="light">
-            <a href="tel:+541147391090" class="white-text">+5411 4739-1090 </a><br>
-            <a href="tel:+541148413114" class="white-text">+5411 4841-3114</a>
-          </ul>
-        </div>
-		  <div class="col l1 m1 s12">
-
-        </div>
-      </div>
-
-    <div class=" grey">
-<div class="row">
-        <div class="col l3 m3 s6 center-align"><img src="images/bpf.png"  alt="" class="responsive-img"/> </div>
-	<div class="col l3 m3 s6 center-align"><img src="images/ministerio-salud.png"  alt="" class="responsive-img"/> 
-           </div>
-	<div class="col l3 m3 s6 center-align"><img src="images/anmat.png"  alt="" class="responsive-img"/> 
-           </div>
-	<div class="col l3 m3 s6 center-align"><img src="images/data-fiscal.png"  alt="" class="responsive-img"/> 
-           </div>
-	</div>
-
-        </div>
-
-  </footer>
+  <? include 'include/footer.php'; ?>
 
 
   <!--  Scripts-->
