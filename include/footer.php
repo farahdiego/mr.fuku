@@ -20,7 +20,7 @@
 de Buenos Aires, Argentina - C1425FXF</p>
 			<h6 class="white-text"> <i class="material-icons tiny">location_on</i> SUCURSAL 3 DE FEBRERO</h6>
          <p class="grey-text text-lighten-4 light">Jujuy 684, Partido de 3 de Febrero<br>
- Provincia de Buenos Aires, Argentina - B1657CJB</p>
+Buenos Aires, Argentina - B1657CJB</p>
         </div>
         <div class="col l3 m3 s12 footerazul">
           <h6 class="white-text"><i class="material-icons tiny">phone</i> LÍNEAS DE COMUNICACIÓN</h6>

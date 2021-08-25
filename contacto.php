@@ -34,7 +34,7 @@
 		  <p>
 			  <h5>Oficina Central</h5>
 
-Angel Carranza 2344, Ciudad Autónoma de Buenos Aires, Argentina - C1425FXF<br><br>
+Angel Carranza 2344, Ciudad Autónoma de Buenos Aires, Argentina - C1425FXF<br>
 		  
 		  <h5>Sucursal 3 de Febrero</h5>
 

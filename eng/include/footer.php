@@ -18,6 +18,9 @@
             <h6 class="white-text"> <i class="material-icons tiny">location_on</i>CENTRAL OFFICE</h6>
          <p class="grey-text text-lighten-4 light">Angel Carranza 2344, Ciudad Autónoma<br>
 de Buenos Aires, Argentina - C1425FXF</p>
+			<h6 class="white-text"> <i class="material-icons tiny">location_on</i>BRANCH OFFICE</h6>
+         <p class="grey-text text-lighten-4 light">Jujuy 684, Partido de 3 de Febrero<br>
+Buenos Aires, Argentina - B1657CJB</p>
         </div>
         <div class="col l3 m3 s12 footerazul">
           <h6 class="white-text"><i class="material-icons tiny">phone</i> COMMUNICATION LINES</h6>
