@@ -47,7 +47,7 @@
 	
 	 <div class="carousel carousel-slider">
     <a class="carousel-item" href="#one!"><div class="row valign-wrapper white">
-		<div class="col s12 m5 l5 texto-slider"><h2 class="black-text">Analysis of<br>projects with<br>business vision.</h2></div>
+		<div class="col s12 m5 l5 texto-slider"><h2 class="black-text">Projects<br>analysis with<br>business vision.</h2></div>
 		<div class="col s12 m7 l7 right-align"><img class="responsive-img" src="../images/slider/01.jpg"></div></div>
 	</a>
 		 
